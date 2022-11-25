@@ -54,6 +54,7 @@ styles:
     bullet-list:
         parent: bodytext
         spaceBefore: 0
+        colWidths: ["20pt",null]
 
     bullet-list-item:
         parent: bodytext
@@ -62,6 +63,7 @@ styles:
     item-list:
         parent: bodytext
         spaceBefore: 0
+        colWidths: ["25pt", null]
 
     item-list-item:
         parent: bodytext
