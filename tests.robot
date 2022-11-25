@@ -22,11 +22,12 @@ New FOR to be preserved
     END
 
 Item access to be updated
-    Log Many    ${list}[0]    ${dict}[key] ${list}[0]
+    Log Many    @{list}[0]    &{dict}[key]    @{list}[0] &{dict}[key]
 
 Upacking syntax to be preserved
     Log Many    @{list}       &{dict}
 
 Mixed updates
-    :FOR    ${x}    IN    ${list}[0]    @{list}
-    \    Log Many    ${list}[0]    @{list}    ${dict}[key]    &{dict}
+    :FOR    ${x}    IN    @{list}[0]    @{list}
+    \    Log Many    @{list}[0]    @{list}    &{dict}[key]    &{dict}
+    Log    @{list}[0] @{list} &{dict}[key] &{dict}

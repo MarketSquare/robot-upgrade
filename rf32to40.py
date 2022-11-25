@@ -33,14 +33,13 @@ class Updater(ModelVisitor):
 
     def visit_Statement(self, node):
         for token in node.get_tokens(Token.ARGUMENT):
-            token.value = re.sub(r'[@&](\{.*?}\[.*?])', r'$\1', token.value)
+            token.value = re.sub(r'[@&](\{[^}]+?}\[[^]+?])', r'$\1', token.value)
 
 
 if __name__ == '__main__':
     args = sys.argv[1:]
     if not args or '--help' in args:
         sys.exit(__doc__)
-    print(args)
     for item in args:
         for path in glob.glob(item, recursive=True):
             model = get_model(path)
