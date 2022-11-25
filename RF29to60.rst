@@ -1,15 +1,31 @@
 From Robot Framework 2.9 to 6.0
-================================
+===============================
 
-| Pekka Klärck <peke@eliga.fi>
-| Robot Framework Lead Developer
+- This slide set explains biggest enhancements and other changes
+  between Robot Framework 2.9 and 6.0
+- The biggest backwards incompatible changes are related to FOR loops and
+  variable item access
+- The provided ``rf32to40.py`` script can update loop and variable syntax
+  automatically
+
+General upgrading strategy
+--------------------------
+
+1. Make sure all tests succeed with the current Robot Framework version
+2. Upgrade to the next feature release (``x.y`` level)
+3. Use the last bug fix release (``x.y.z`` level) to get fixes to possible
+   regressions (2.9.2, 3.0.4, 3.1.2, 3.2.2, 4.0.3, 4.1.3, 5.0.1)
+4. Run tests again
+5. Use ``--dryrun`` first if execution takes lot of time
+6. Fix possible broken tests and resolve deprecation warnings
+7. Go to 1
 
 Python version support
 ----------------------
 
-- Python 3 supported since `RF 3.0`_
-- Python 2 support removed in `RF 5.0`_
-- Jython and IronPython support removed in `RF 5.0`_
+- Python 3 is supported since `RF 3.0`_
+- Python 2 support was removed in `RF 5.0`_
+- Jython and IronPython support was removed in `RF 5.0`_
 - Robot Framework 6.0 supports Python 3.6 and newer
 - Robot Framework 7.0 will require Python 3.7 or newer
 
@@ -28,9 +44,9 @@ FOR loop changes
             Log    ${animal}
         END
 
-- New syntax added in `RF 3.1`_
-- Old syntax deprecated in `RF 3.2`_ and removed in `RF 4.0`_
-- Built-in Tidy tool bundled with `RF 3.2`_ can convert loop syntax
+- New syntax added in `RF 3.1`_
+- Old syntax deprecated in `RF 3.2`_ and removed in `RF 4.0`_
+- Provided ``rf32to40.py`` script can update loop syntax
 
 IF/ELSE
 -------
@@ -52,7 +68,7 @@ IF/ELSE
             Zero Keyword
         END
 
-Added in `RF 4.0`_
+Added in `RF 4.0`_
 
 Nested control structures
 -------------------------
@@ -69,7 +85,7 @@ Nested control structures
             END
         END
 
-Added in `RF 4.0`_
+Added in `RF 4.0`_
 
 TRY/EXCEPT
 ----------
@@ -91,7 +107,7 @@ TRY/EXCEPT
             Close Connection
         END
 
-Added in `RF 5.0`_
+Added in `RF 5.0`_
 
 WHILE
 -----
@@ -112,84 +128,90 @@ WHILE
             IF    ${x} == 0    BREAK    # Inline IF
         END
 
-Added in `RF 5.0`_
+Added in `RF 5.0`_
 
 Other control structures
 ------------------------
 
-- Inline ``IF`` in `RF 5.0`_
-- ``RETURN`` for returning from user keywords in `RF 5.0`_
-- ``BREAK`` and ``CONTINUE`` for loop control in `RF 5.0`_
+- Inline ``IF`` in `RF 5.0`_
+- ``RETURN`` for returning from user keywords in `RF 5.0`_
+- ``BREAK`` and ``CONTINUE`` for loop control in `RF 5.0`_
 - Loop control keywords ``Exit For Loop`` and ``Continue For Loop`` must be used
-  directly inside loops starting from `RF 5.0`_
-- Loop control keywords are considered deprecated since `RF 5.0`_
+  directly inside loops starting from `RF 5.0`_
+- Loop control keywords are considered deprecated since `RF 5.0`_
+
+Changes to variable items access
+--------------------------------
+
+- List and dictionary variable items can be accessed using generic
+  ``${var}[item]`` syntax instead of ``@{list}[0]`` and ``&{dict}[key]``
+  starting from `RF 3.1`_
+- Nested access like ``${var}[x][y]`` is supported since `RF 3.1`_ as well
+- Accessing list and dictionary items like ``@{list}[0]`` and ``&{dict}[key]``
+  was deprecated in `RF 3.2`_
+- ``@{var}[0]`` and ``&{var}[key]`` mean accessing the specified item and
+  *unpacking* it as list or dictionary since `RF 4.0`_
+- Provided ``rf32to40.py`` script can update item access syntax
+
+Status changes
+--------------
+
+- ``SKIP`` status was added in `RF 4.0`_
+- Criticality concept was removed in `RF 4.0`_
+- New ``--skiponfailure`` works similarly as old ``--noncritical``
+- ``--critical`` and ``--noncritical`` were deprecated in `RF 4.0`_ and
+  removed in `RF 5.0`_
+- ``NOT RUN`` status is used with un-executed keywords and control structures
+  starting from `RF 4.0`_
+
+``pybot`` replaced with ``robot`` and ``python -m robot``
+---------------------------------------------------------
+
+- ``robot`` and ``python -m robot`` were added in `RF 3.0`_
+- ``pybot``, ``jybot`` and ``ipybot`` were removed in `RF 3.1`_
+- ``robot.bat`` was changed to ``robot.exe`` on Windows in `RF 3.1`_
+
+Data format changes
+--------------------
+
+- Support for HTML and TSV formats was removed in `RF 3.2`_
+- Only ``*.robot`` files are parsed by default starting from `RF 3.2`_
+- ``--extension`` option can be used if other files need to be parsed
+- New ``*.resource`` extension for resource files was added in `RF 3.1`_
+
+Changes to section and setting names
+------------------------------------
+
+- Aliases like ``*** Metadata ***``, ``Document`` and ``Pre Condition`` were
+  removed in `RF 3.1`_
+- Names are space sensitive (e.g. ``*** TestCases ***`` or ``Set Up`` won't work)
+  starting from `RF 3.2`_
+- Singular headers like ``*** Test Case ***`` are considered deprecated starting
+  from `RF 6.0`_
+- ``Test Tags`` and ``Keyword Tags`` were added in `RF 6.0`_
+- ``Force Tags`` and ``Default Tags`` are considered deprecated since `RF 6.0`_
 
 Evaluating expressions
 ----------------------
 
 - Modules are imported automatically in expressions like ``platform.system() == 'Linux'``
-  with ``Evaluate``, ``Run Keyword If``, ``IF/ELSE``, etc. starting from `RF 3.2`_
-
+  with ``Evaluate``, ``Run Keyword If``, ``IF/ELSE``, etc. starting from `RF 3.2`_
 - Inline Python evaluation (e.g. ``${{[1, 2, 3, 4]}}`` and
-  ``${{datetime.date(2022, 11, 22)}}`` added in `RF 3.2`_
-
-Changes to accessing list and dictionary items
-----------------------------------------------
-
-- List and dictionary items can be accessed using generic ``${var}[item]`` syntax
-  instead of ``@{list}[0]`` and ``&{dict}[key]`` since `RF 3.1`_
-- Nested access like ``${var}[x][y]`` supported since `RF 3.1`_ as well
-- Accessing list and dictionary items like ``@{list}[0]`` and ``&{dict}[key]``
-  deprecated in `RF 3.2`_
-- ``@{var}[0]`` and ``&{var}[key]`` mean accessing the specified item and
-  *unpacking* it as list or dictionary since `RF 4.0`_
-
-Status changes
---------------
-
-- ``SKIP`` status added in `RF 4.0`_
-- Criticality concept removed in `RF 4.0`_
-- ``--skiponfailure`` works similarly as old ``--noncritical``
-- ``NOT RUN`` status used with un-executed keywords and control structures
-  starting from `RF 4.0`_
-
-``pybot`` replaced with ``robot`` and ``python -m robot``
----------------------------------------------------------
-
-- ``robot`` and ``python -m robot`` added in `RF 3.0`_
-- ``pybot``, ``jybot`` and ``ipybot`` removed in `RF 3.1`_
-- ``robot.bat`` changed to ``robot.exe`` on Windows in `RF 3.1`_
-
-Data format changes
---------------------
-
-- Support for HTML and TSV formats removed in `RF 3.2`_
-- Only ``*.robot`` files are parsed by default starting from `RF 3.2`_
-- ``--extension`` option can be used to parse other files
-- New ``*.resource`` extension for resource files added in `RF 3.1`_
-
-Changes to section and setting names
-------------------------------------
-
-- Aliases like ``*** Metadata ***``, ``Document`` and ``Pre Condition`` were removed in `RF 3.1`_
-- Names are space sensitive since `RF 3.2`_ (e.g. ``*** TestCases ***`` or ``Set Up`` won't work)
-- Singular headers like ``*** Test Case ***`` are considered deprecated starting from `RF 6.0`_
-- ``Test Tags`` and ``Keyword Tags`` added in `RF 6.0`_
-- ``Force Tags`` and ``Default Tags`` considered deprecated since `RF 6.0`_
+  ``${{datetime.date(2022, 11, 22)}}`` was added in `RF 3.2`_
 
 Listener changes
 ----------------
 
-- Old listeners API v1 removed in `RF 3.0`_
-- Powerful listener API v3 added in `RF 3.0`_
-- Listener API v3 can add and remove tests since `RF 3.2`_
-- Smallish changes to info passed to listener API v2 in different releases
+- Old listeners API v1 was removed in `RF 3.0`_
+- Powerful listener API v3 was added in `RF 3.0`_
+- Listener API v3 can add and remove tests since `RF 3.2`_
+- Small changes to information passed to listener API v2 in different releases
 
 Libdoc changes
 --------------
 
-- New and enhanced HTML styles in `RF 4.0`_
-- JSON spec files in `RF 4.0`_
+- New and enhanced HTML styles were added in `RF 4.0`_
+- Support for JSON spec files was added in `RF 4.0`_
 - Some changes to XML spec files in different releases
 
 Automatic argument conversion
@@ -207,50 +229,52 @@ Automatic argument conversion
         Keyword    42
         Keyword    -1    case_insensitive=False
 
-- Added in `RF 3.1`_ and enhanced in subsequent releases
-- Support for custom argument converters added in `RF 5.0`_
+- Added in `RF 3.1`_ and enhanced in subsequent releases
+- Support for custom argument converters added in `RF 5.0`_
 
 Other library API enhancements
 ------------------------------
 
-- ``@library`` and ``@not_keyword`` decorators in `RF 3.2`_
-- Named-only argument support in `RF 3.1`_
-- Positional-only argument support (Python 3.8+ only) in `RF 4.0`_
+- ``@library`` and ``@not_keyword`` decorators added in `RF 3.2`_
+- Named-only argument support added in `RF 3.1`_
+- Positional-only argument support (Python 3.8+ only) added in `RF 4.0`_
 
 Controlling continue-on-failure mode
 ------------------------------------
 
 - Controlled using tags on test and keyword level
-- ``robot:continue-on-failure`` and ``robot:recursive-continue-on-failure`` added in `RF 4.1`_
-- ``robot:stop-on-failure`` and ``robot:recursive-stop-on-failure`` added in `RF 6.0`_
+- ``robot:continue-on-failure`` and ``robot:recursive-continue-on-failure``
+  added in `RF 4.1`_
+- ``robot:stop-on-failure`` and ``robot:recursive-stop-on-failure``
+  added in `RF 6.0`_
 
 Log file enhancements
 ---------------------
 
-- Relative order of messages and keywords preserved since `RF 4.0`_
+- Relative order of messages and keywords preserved since `RF 4.0`_
 - Un-executed keywords (after failures, in un-executed ``IF/ELSE`` branches, etc.)
-  shown in log using ``NOT RUN`` status (gray) since `RF 4.0`_
+  shown in log using ``NOT RUN`` status (gray) since `RF 4.0`_
 
 output.xml changes
 ------------------
 
-- Somewhat big changes in `RF 4.0`_
-- New ``SKIP`` and ``NOT RUN`` statuses
-- No criticality information
+- New ``SKIP`` and ``NOT RUN`` statuses added
+- Criticality information removed
 - Container elements ``<metadata>``, ``<tags>``, ``<arguments>`` and ``<assign>``
   around items have been removed
 - ``FOR`` loops are represented as ``<for>`` elements instead of ``<kw type='for'>``
 - New elements for other control structures
 - Boolean values in attributes changed from ``yes/no`` to ``true/false``
+- All these changes were done in `RF 4.0`_
 
 xUnit format changes
 --------------------
 
-- ``skip`` attribute changed to ``skipped`` in `RF 3.1`_
-- Each suite gets its own ``<testsuite>`` element starting from `RF 5.0`_
-- ``<testsuite>`` elements have ``timestamp`` attribute since `RF 5.0`_
+- ``skip`` attribute changed to ``skipped`` in `RF 3.1`_
+- Each suite gets its own ``<testsuite>`` element starting from `RF 5.0`_
+- ``<testsuite>`` elements have ``timestamp`` attribute since `RF 5.0`_
 - Suite documentation and metadata are added under each ``<testsuite>`` as
-  properties since `RF 5.0`_
+  properties since `RF 5.0`_
 
 New external RoboTidy
 ---------------------
@@ -260,23 +284,23 @@ New external RoboTidy
 - Can convert ``Run Keyword If`` to ``IF/ELSE``, update deprecated settings,
   and so on
 - Cannot handle old ``FOR`` loops
-- Built-in Tidy deprecated in `RF 4.1`_ and removed in `RF 5.0`_
+- Built-in Tidy deprecated in `RF 4.1`_ and removed in `RF 5.0`_
 
 Other changes
 -------------
 
-- Support for process automation (RPA) in `RF 3.1`_
-- New parser in `RF 3.2`_
-- Localization in `RF 6.0`_
-- Better conflict resolution with keywords accepting embedded arguments in `RF 6.0`_
-- Enhancements to keyword namespaces in `RF 6.0`_
-- Performance enhancements to remote API in `RF 4.0`_ (but not yet to Python remote server)
+- Support for process automation (RPA) in `RF 3.1`_
+- New parser in `RF 3.2`_
+- Performance enhancements to remote API in `RF 4.0`_
+- Localization in `RF 6.0`_
+- Better conflict resolution with keywords accepting embedded arguments in `RF 6.0`_
+- Enhancements to keyword namespaces (e.g. ``robot:private``) in `RF 6.0`_
 
 
-.. _`RF 3.0`: https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.0.rst
-.. _`RF 3.1`: https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.1.rst
-.. _`RF 3.2`: https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.2.rst
-.. _`RF 4.0`: https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.0.rst
-.. _`RF 4.1`: https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.1.rst
-.. _`RF 5.0`: https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-5.0.rst
-.. _`RF 6.0`: https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-6.0.rst
+.. _`RF 3.0`: https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.0.rst
+.. _`RF 3.1`: https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.1.rst
+.. _`RF 3.2`: https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.2.rst
+.. _`RF 4.0`: https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.0.rst
+.. _`RF 4.1`: https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.1.rst
+.. _`RF 5.0`: https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-5.0.rst
+.. _`RF 6.0`: https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-6.0.rst
