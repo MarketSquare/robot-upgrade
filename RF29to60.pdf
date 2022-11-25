@@ -1,0 +1,4138 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 32 0 R /F5 65 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/Contents 125 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Contents 126 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 193.3503 187.5354 229.3623 201.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-5.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 224.0223 167.5354 260.0343 181.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-5.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 296.7303 147.5354 332.7423 161.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/Annots [ 7 0 R 8 0 R 9 0 R ] /Contents 127 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.1.rst)
+>> /Border [ 0 0 0 ] /Rect [ 157.3263 77.93543 193.3383 92.33543 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.2.rst)
+>> /Border [ 0 0 0 ] /Rect [ 178.6743 57.93543 214.6863 72.33543 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 304.0623 57.93543 340.0743 72.33543 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/Annots [ 11 0 R 12 0 R 13 0 R ] /Contents 128 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 70.3063 32.93543 106.3183 47.33543 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/Annots [ 15 0 R ] /Contents 129 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 70.3063 80.93543 106.3183 95.33543 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/Annots [ 17 0 R ] /Contents 130 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-5.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 70.3063 32.93543 106.3183 47.33543 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/Annots [ 19 0 R ] /Contents 131 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-5.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 70.3063 42.53543 106.3183 56.93543 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/Annots [ 21 0 R ] /Contents 132 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-5.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 105.0303 187.5354 141.0423 201.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-5.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 277.8663 167.5354 313.8783 181.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-5.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 261.6063 147.5354 297.6183 161.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-5.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 296.0343 109.5354 332.0463 123.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-5.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 343.4103 89.53543 379.4223 103.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/Annots [ 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R ] /Contents 133 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.1.rst)
+>> /Border [ 0 0 0 ] /Rect [ 112.6263 151.5354 148.6383 165.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.1.rst)
+>> /Border [ 0 0 0 ] /Rect [ 335.7543 131.5354 371.7663 145.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.2.rst)
+>> /Border [ 0 0 0 ] /Rect [ 143.3223 93.53543 179.3343 107.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 244.0143 55.53543 280.0263 69.93543 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/Annots [ 29 0 R 30 0 R 31 0 R 33 0 R ] /Contents 134 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 184.1343 187.5354 220.1463 201.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 227.3223 167.5354 263.3343 181.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 343.6143 127.5354 379.6263 141.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-5.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 105.2943 109.5354 141.3063 123.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 168.6423 71.53543 204.6543 85.93543 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/Annots [ 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R ] /Contents 135 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 295.3383 162.3354 331.3503 176.7354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.1.rst)
+>> /Border [ 0 0 0 ] /Rect [ 286.5303 142.3354 322.5423 156.7354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.1.rst)
+>> /Border [ 0 0 0 ] /Rect [ 347.6223 122.3354 383.6343 136.7354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+44 0 obj
+<<
+/Annots [ 41 0 R 42 0 R 43 0 R ] /Contents 136 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.2.rst)
+>> /Border [ 0 0 0 ] /Rect [ 322.0383 187.5354 358.0503 201.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.2.rst)
+>> /Border [ 0 0 0 ] /Rect [ 335.1063 167.5354 371.1183 181.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.1.rst)
+>> /Border [ 0 0 0 ] /Rect [ 366.0423 127.5354 402.0543 141.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/Annots [ 45 0 R 46 0 R 47 0 R ] /Contents 137 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.1.rst)
+>> /Border [ 0 0 0 ] /Rect [ 134.6343 169.5354 170.6463 183.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.2.rst)
+>> /Border [ 0 0 0 ] /Rect [ 145.2903 131.5354 181.3023 145.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-6.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 112.6263 93.53543 148.6383 107.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-6.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 302.5383 73.53543 338.5503 87.93543 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-6.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 42.6063 35.53543 78.6183 49.93543 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/Annots [ 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R ] /Contents 138 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.2.rst)
+>> /Border [ 0 0 0 ] /Rect [ 299.8503 151.5354 335.8623 165.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.2.rst)
+>> /Border [ 0 0 0 ] /Rect [ 350.3823 113.5354 386.3943 127.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/Annots [ 55 0 R 56 0 R ] /Contents 139 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 238.6743 187.5354 274.6863 201.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 247.3623 167.5354 283.3743 181.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.2.rst)
+>> /Border [ 0 0 0 ] /Rect [ 300.0663 147.5354 336.0783 161.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/Annots [ 58 0 R 59 0 R 60 0 R ] /Contents 140 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 298.0503 187.5354 334.0623 201.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 268.0383 167.5354 304.0503 181.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/Annots [ 62 0 R 63 0 R ] /Contents 141 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+65 0 obj
+<<
+/BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.1.rst)
+>> /Border [ 0 0 0 ] /Rect [ 93.3063 85.53543 129.3183 99.93543 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-5.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 310.0623 65.53543 346.0743 79.93543 ] /Subtype /Link /Type /Annot
+>>
+endobj
+68 0 obj
+<<
+/Annots [ 66 0 R 67 0 R ] /Contents 142 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.2.rst)
+>> /Border [ 0 0 0 ] /Rect [ 326.0223 187.5354 362.0343 201.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.1.rst)
+>> /Border [ 0 0 0 ] /Rect [ 257.3703 167.5354 293.3823 181.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 371.7663 147.5354 407.7783 161.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/Annots [ 69 0 R 70 0 R 71 0 R ] /Contents 143 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.1.rst)
+>> /Border [ 0 0 0 ] /Rect [ 347.3103 149.5354 383.3223 163.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-6.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 318.5103 111.5354 354.5223 125.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/Annots [ 73 0 R 74 0 R ] /Contents 144 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 357.3903 187.5354 393.4023 201.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 326.4303 149.5354 362.4423 163.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+78 0 obj
+<<
+/Annots [ 76 0 R 77 0 R ] /Contents 145 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 212.6943 31.53543 248.7063 45.93543 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/Annots [ 79 0 R ] /Contents 146 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+81 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.1.rst)
+>> /Border [ 0 0 0 ] /Rect [ 250.5543 187.5354 286.5663 201.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-5.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 367.2423 167.5354 403.2543 181.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-5.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 352.6863 147.5354 388.6983 161.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-5.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 146.6463 109.5354 182.6583 123.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/Annots [ 81 0 R 82 0 R 83 0 R 84 0 R ] /Contents 147 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+86 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robotidy.readthedocs.io)
+>> /Border [ 0 0 0 ] /Rect [ 42.6063 188.4354 203.3583 206.4354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+87 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.1.rst)
+>> /Border [ 0 0 0 ] /Rect [ 184.6623 89.53543 220.6743 103.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+88 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-5.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 310.0503 89.53543 346.0623 103.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+89 0 obj
+<<
+/Annots [ 86 0 R 87 0 R 88 0 R ] /Contents 148 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+90 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.1.rst)
+>> /Border [ 0 0 0 ] /Rect [ 262.0263 187.5354 298.0383 201.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+91 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-3.2.rst)
+>> /Border [ 0 0 0 ] /Rect [ 119.9583 167.5354 155.9703 181.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+92 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-4.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 286.0503 147.5354 322.0623 161.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+93 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-6.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 121.9743 127.5354 157.9863 141.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+94 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-6.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 55.2783 89.53543 91.2903 103.9354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+95 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-6.0.rst)
+>> /Border [ 0 0 0 ] /Rect [ 42.6063 51.53543 78.6183 65.93543 ] /Subtype /Link /Type /Annot
+>>
+endobj
+96 0 obj
+<<
+/Annots [ 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R ] /Contents 149 0 R /MediaBox [ 0 0 453.5433 255.1181 ] /Parent 124 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+97 0 obj
+<<
+/Outlines 99 0 R /PageLabels 150 0 R /PageMode /UseNone /Pages 124 0 R /Type /Catalog
+>>
+endobj
+98 0 obj
+<<
+/Author () /CreationDate (D:20221126005845-02'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20221126005845-02'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (From Robot Framework 2.9 to 6.0) /Trapped /False
+>>
+endobj
+99 0 obj
+<<
+/Count 24 /First 100 0 R /Last 123 0 R /Type /Outlines
+>>
+endobj
+100 0 obj
+<<
+/Dest [ 6 0 R /XYZ 19.6063 236.1354 0 ] /Next 101 0 R /Parent 99 0 R /Title (General upgrading strategy)
+>>
+endobj
+101 0 obj
+<<
+/Dest [ 10 0 R /XYZ 19.6063 236.1354 0 ] /Next 102 0 R /Parent 99 0 R /Prev 100 0 R /Title (Python version support)
+>>
+endobj
+102 0 obj
+<<
+/Dest [ 14 0 R /XYZ 19.6063 236.1354 0 ] /Next 103 0 R /Parent 99 0 R /Prev 101 0 R /Title (FOR loop changes)
+>>
+endobj
+103 0 obj
+<<
+/Dest [ 16 0 R /XYZ 19.6063 236.1354 0 ] /Next 104 0 R /Parent 99 0 R /Prev 102 0 R /Title (IF/ELSE)
+>>
+endobj
+104 0 obj
+<<
+/Dest [ 18 0 R /XYZ 19.6063 236.1354 0 ] /Next 105 0 R /Parent 99 0 R /Prev 103 0 R /Title (Nested control structures)
+>>
+endobj
+105 0 obj
+<<
+/Dest [ 20 0 R /XYZ 19.6063 236.1354 0 ] /Next 106 0 R /Parent 99 0 R /Prev 104 0 R /Title (TRY/EXCEPT)
+>>
+endobj
+106 0 obj
+<<
+/Dest [ 22 0 R /XYZ 19.6063 236.1354 0 ] /Next 107 0 R /Parent 99 0 R /Prev 105 0 R /Title (WHILE)
+>>
+endobj
+107 0 obj
+<<
+/Dest [ 28 0 R /XYZ 19.6063 236.1354 0 ] /Next 108 0 R /Parent 99 0 R /Prev 106 0 R /Title (Other control structures)
+>>
+endobj
+108 0 obj
+<<
+/Dest [ 34 0 R /XYZ 19.6063 236.1354 0 ] /Next 109 0 R /Parent 99 0 R /Prev 107 0 R /Title (Changes to variable items access)
+>>
+endobj
+109 0 obj
+<<
+/Dest [ 40 0 R /XYZ 19.6063 236.1354 0 ] /Next 110 0 R /Parent 99 0 R /Prev 108 0 R /Title (Status changes)
+>>
+endobj
+110 0 obj
+<<
+/Dest [ 44 0 R /XYZ 19.6063 236.1354 0 ] /Next 111 0 R /Parent 99 0 R /Prev 109 0 R /Title (pybot replaced with robot and python&nbsp;-m&nbsp;robot)
+>>
+endobj
+111 0 obj
+<<
+/Dest [ 48 0 R /XYZ 19.6063 236.1354 0 ] /Next 112 0 R /Parent 99 0 R /Prev 110 0 R /Title (Data format changes)
+>>
+endobj
+112 0 obj
+<<
+/Dest [ 54 0 R /XYZ 19.6063 236.1354 0 ] /Next 113 0 R /Parent 99 0 R /Prev 111 0 R /Title (Changes to section and setting names)
+>>
+endobj
+113 0 obj
+<<
+/Dest [ 57 0 R /XYZ 19.6063 236.1354 0 ] /Next 114 0 R /Parent 99 0 R /Prev 112 0 R /Title (Evaluating expressions)
+>>
+endobj
+114 0 obj
+<<
+/Dest [ 61 0 R /XYZ 19.6063 236.1354 0 ] /Next 115 0 R /Parent 99 0 R /Prev 113 0 R /Title (Listener changes)
+>>
+endobj
+115 0 obj
+<<
+/Dest [ 64 0 R /XYZ 19.6063 236.1354 0 ] /Next 116 0 R /Parent 99 0 R /Prev 114 0 R /Title (Libdoc changes)
+>>
+endobj
+116 0 obj
+<<
+/Dest [ 68 0 R /XYZ 19.6063 236.1354 0 ] /Next 117 0 R /Parent 99 0 R /Prev 115 0 R /Title (Automatic argument conversion)
+>>
+endobj
+117 0 obj
+<<
+/Dest [ 72 0 R /XYZ 19.6063 236.1354 0 ] /Next 118 0 R /Parent 99 0 R /Prev 116 0 R /Title (Other library API enhancements)
+>>
+endobj
+118 0 obj
+<<
+/Dest [ 75 0 R /XYZ 19.6063 236.1354 0 ] /Next 119 0 R /Parent 99 0 R /Prev 117 0 R /Title (Controlling continue-on-failure mode)
+>>
+endobj
+119 0 obj
+<<
+/Dest [ 78 0 R /XYZ 19.6063 236.1354 0 ] /Next 120 0 R /Parent 99 0 R /Prev 118 0 R /Title (Log file enhancements)
+>>
+endobj
+120 0 obj
+<<
+/Dest [ 80 0 R /XYZ 19.6063 236.1354 0 ] /Next 121 0 R /Parent 99 0 R /Prev 119 0 R /Title (output.xml changes)
+>>
+endobj
+121 0 obj
+<<
+/Dest [ 85 0 R /XYZ 19.6063 236.1354 0 ] /Next 122 0 R /Parent 99 0 R /Prev 120 0 R /Title (xUnit format changes)
+>>
+endobj
+122 0 obj
+<<
+/Dest [ 89 0 R /XYZ 19.6063 236.1354 0 ] /Next 123 0 R /Parent 99 0 R /Prev 121 0 R /Title (New external RoboTidy)
+>>
+endobj
+123 0 obj
+<<
+/Dest [ 96 0 R /XYZ 19.6063 236.1354 0 ] /Parent 99 0 R /Prev 122 0 R /Title (Other changes)
+>>
+endobj
+124 0 obj
+<<
+/Count 25 /Kids [ 5 0 R 6 0 R 10 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 28 0 R 34 0 R 
+  40 0 R 44 0 R 48 0 R 54 0 R 57 0 R 61 0 R 64 0 R 68 0 R 72 0 R 75 0 R 
+  78 0 R 80 0 R 85 0 R 89 0 R 96 0 R ] /Type /Pages
+>>
+endobj
+125 0 obj
+<<
+/Length 1496
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 207.3354 cm
+q
+BT 1 0 0 1 0 4.8 Tm 17.12135 0 Td 28.8 TL /F2 24 Tf .133333 .133333 .133333 rg (From Robot Framework 2.9 to 6.0) Tj T* -17.12135 0 Td ET
+Q
+Q
+q
+1 0 0 1 19.6063 171.3354 cm
+Q
+q
+1 0 0 1 19.6063 171.3354 cm
+Q
+q
+1 0 0 1 19.6063 135.3354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F1 12 Tf 0 0 0 rg (This slide set explains biggest enhancements and other changes) Tj T* (between Robot Framework 2.9 and 6.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 133.3354 cm
+Q
+q
+1 0 0 1 19.6063 97.33543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 18 TL (The biggest backwards incompatible changes are related to FOR loops) Tj T* (and variable item access) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 95.33543 cm
+Q
+q
+1 0 0 1 19.6063 59.33543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F1 12 Tf 0 0 0 rg (The provided ) Tj /F3 12 Tf (rf32to40.py) Tj /F1 12 Tf ( script can update loop and variable syntax) Tj T* (automatically) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 49.33543 cm
+Q
+q
+1 0 0 1 19.6063 49.33543 cm
+Q
+ 
+endstream
+endobj
+126 0 obj
+<<
+/Length 2742
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (General upgrading strategy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 186.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 4.6 0 Td (1.) Tj T* -4.6 0 Td ET
+Q
+Q
+q
+1 0 0 1 28 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 12 Tf 18 TL (Make sure all tests succeed with the current Robot Framework version) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 184.9354 cm
+Q
+q
+1 0 0 1 19.6063 166.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 4.6 0 Td (2.) Tj T* -4.6 0 Td ET
+Q
+Q
+q
+1 0 0 1 28 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Upgrade to the next feature release \() Tj /F3 12 Tf (x.y) Tj /F1 12 Tf ( level\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 164.9354 cm
+Q
+q
+1 0 0 1 19.6063 128.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 4.6 0 Td (3.) Tj T* -4.6 0 Td ET
+Q
+Q
+q
+1 0 0 1 28 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F1 12 Tf 0 0 0 rg (Use the last bug fix release \() Tj /F3 12 Tf (x.y.z) Tj /F1 12 Tf ( level\) to get fixes to possible) Tj T* (regressions \(2.9.2, 3.0.4, 3.1.2, 3.2.2, 4.0.3, 4.1.3, 5.0.1\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 126.9354 cm
+Q
+q
+1 0 0 1 19.6063 108.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 4.6 0 Td (4.) Tj T* -4.6 0 Td ET
+Q
+Q
+q
+1 0 0 1 28 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 12 Tf 18 TL (Run tests again) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 106.9354 cm
+Q
+q
+1 0 0 1 19.6063 88.93543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 4.6 0 Td (5.) Tj T* -4.6 0 Td ET
+Q
+Q
+q
+1 0 0 1 28 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Use ) Tj /F3 12 Tf (--dryrun) Tj /F1 12 Tf ( first if execution takes lot of time) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 86.93543 cm
+Q
+q
+1 0 0 1 19.6063 68.93543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 4.6 0 Td (6.) Tj T* -4.6 0 Td ET
+Q
+Q
+q
+1 0 0 1 28 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 12 Tf 18 TL (Fix possible broken tests and resolve deprecation warnings) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 66.93543 cm
+Q
+q
+1 0 0 1 19.6063 48.93543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 4.6 0 Td (7.) Tj T* -4.6 0 Td ET
+Q
+Q
+q
+1 0 0 1 28 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 12 Tf 18 TL (Go to 1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 38.93543 cm
+Q
+q
+1 0 0 1 19.6063 38.93543 cm
+Q
+ 
+endstream
+endobj
+127 0 obj
+<<
+/Length 2021
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (Python version support) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 186.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Python 3 is supported since ) Tj .105882 .482353 .533333 rg (RF 3.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 184.9354 cm
+Q
+q
+1 0 0 1 19.6063 166.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Python 2 support was removed in ) Tj .105882 .482353 .533333 rg (RF 5.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 164.9354 cm
+Q
+q
+1 0 0 1 19.6063 146.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Jython and IronPython support was removed in ) Tj .105882 .482353 .533333 rg (RF 5.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 144.9354 cm
+Q
+q
+1 0 0 1 19.6063 126.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 12 Tf 18 TL (Robot Framework 6.0 supports Python 3.6 and newer) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 124.9354 cm
+Q
+q
+1 0 0 1 19.6063 106.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 12 Tf 18 TL (Robot Framework 7.0 will require Python 3.7 or newer) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 96.93543 cm
+Q
+q
+1 0 0 1 19.6063 96.93543 cm
+Q
+ 
+endstream
+endobj
+128 0 obj
+<<
+/Length 1883
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (FOR loop changes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 103.3354 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 413.1307 98.4 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 78.4 Tm /F3 8 Tf 9.6 TL (*** Test Cases ***) Tj T* (Old FOR loop) Tj T* (    :FOR    ${animal}    IN    cat    dog    cow) Tj T* (    \\    Log    ${animal}) Tj T*  T* (New FOR loop) Tj T* (    FOR    ${animal}    IN    cat    dog    cow) Tj T* (        Log    ${animal}) Tj T* (    END) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 95.33543 cm
+Q
+q
+1 0 0 1 19.6063 95.33543 cm
+Q
+q
+1 0 0 1 19.6063 77.33543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (New syntax added in ) Tj .105882 .482353 .533333 rg (RF 3.1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 75.33543 cm
+Q
+q
+1 0 0 1 19.6063 57.33543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Old syntax deprecated in ) Tj .105882 .482353 .533333 rg (RF 3.2) Tj 0 0 0 rg ( and removed in ) Tj .105882 .482353 .533333 rg (RF 4.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 55.33543 cm
+Q
+q
+1 0 0 1 19.6063 37.33543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Provided ) Tj /F3 12 Tf (rf32to40.py) Tj /F1 12 Tf ( script can update loop syntax) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 27.33543 cm
+Q
+q
+1 0 0 1 19.6063 27.33543 cm
+Q
+ 
+endstream
+endobj
+129 0 obj
+<<
+/Length 908
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (IF/ELSE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 55.33543 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 413.1307 146.4 re B*
+Q
+q
+BT 1 0 0 1 0 126.4 Tm 9.6 TL /F3 8 Tf 0 0 0 rg (*** Test Cases ***) Tj T* (IF only) Tj T* (    IF    ${condition}) Tj T* (        Keyword) Tj T* (    END) Tj T*  T* (IF/ELSE IF/ELSE) Tj T* (    IF    ${var} ) Tj (>) Tj ( 0) Tj T* (        Positive Keyword) Tj T* (    ELSE IF    ${var} ) Tj (<) Tj ( 0) Tj T* (        Negative Keyword) Tj T* (    ELSE) Tj T* (        Zero Keyword) Tj T* (    END) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 29.33543 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Added in ) Tj .105882 .482353 .533333 rg (RF 4.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 19.33543 cm
+Q
+ 
+endstream
+endobj
+130 0 obj
+<<
+/Length 856
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (Nested control structures) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 103.3354 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 413.1307 98.4 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 78.4 Tm /F3 8 Tf 9.6 TL (*** Test Cases ***) Tj T* (Example) Tj T* (    FOR    ${row}    IN    @{rows}) Tj T* (        FOR    ${cell}    IN    @{row}) Tj T* (            IF    "${cell}" != "IGNORE") Tj T* (                Process Cell    ${cell}) Tj T* (            END) Tj T* (        END) Tj T* (    END) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 77.33543 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Added in ) Tj .105882 .482353 .533333 rg (RF 4.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 67.33543 cm
+Q
+ 
+endstream
+endobj
+131 0 obj
+<<
+/Length 875
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (TRY/EXCEPT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 55.33543 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 413.1307 146.4 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 126.4 Tm /F3 8 Tf 9.6 TL (*** Test Cases ***) Tj T* (TRY/EXCEPT) Tj T* (    TRY) Tj T* (        Some Keyword) Tj T* (    EXCEPT    Error message) Tj T* (        Error Handler Keyword) Tj T* (    END) Tj T*  T* (TRY/FINALLY) Tj T* (    TRY) Tj T* (        Use Connection) Tj T* (    FINALLY) Tj T* (        Close Connection) Tj T* (    END) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 29.33543 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Added in ) Tj .105882 .482353 .533333 rg (RF 5.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 19.33543 cm
+Q
+ 
+endstream
+endobj
+132 0 obj
+<<
+/Length 948
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (WHILE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 64.93543 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 413.1307 136.8 re B*
+Q
+q
+BT 1 0 0 1 0 116.8 Tm 9.6 TL /F3 8 Tf 0 0 0 rg (*** Test Cases ***) Tj T* (Loop while condition is true) Tj T* (    WHILE    ${x} ) Tj (>) Tj ( 0) Tj T* (        Log    ${x}) Tj T* (        ${x} =    Evaluate    ${x} - 1) Tj T* (    END) Tj T*  T* (Loop until BREAK) Tj T* (    WHILE    True) Tj T* (        Log    ${x}) Tj T* (        ${x} =    Evaluate    ${x} - 1) Tj T* (        IF    ${x} == 0    BREAK    # Inline IF) Tj T* (    END) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 38.93543 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Added in ) Tj .105882 .482353 .533333 rg (RF 5.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 28.93543 cm
+Q
+ 
+endstream
+endobj
+133 0 obj
+<<
+/Length 2363
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (Other control structures) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 186.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Inline ) Tj /F3 12 Tf (IF) Tj /F1 12 Tf ( in ) Tj .105882 .482353 .533333 rg (RF 5.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 184.9354 cm
+Q
+q
+1 0 0 1 19.6063 166.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F3 12 Tf 0 0 0 rg (RETURN) Tj /F1 12 Tf ( for returning from user keywords in ) Tj .105882 .482353 .533333 rg (RF 5.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 164.9354 cm
+Q
+q
+1 0 0 1 19.6063 146.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F3 12 Tf 0 0 0 rg (BREAK) Tj /F1 12 Tf ( and ) Tj /F3 12 Tf (CONTINUE) Tj /F1 12 Tf ( for loop control in ) Tj .105882 .482353 .533333 rg (RF 5.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 144.9354 cm
+Q
+q
+1 0 0 1 19.6063 108.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F1 12 Tf 0 0 0 rg (Loop control keywords ) Tj /F3 12 Tf (Exit) Tj ( ) Tj (For) Tj ( ) Tj (Loop) Tj /F1 12 Tf ( and ) Tj /F3 12 Tf (Continue) Tj ( ) Tj (For) Tj ( ) Tj (Loop) Tj /F1 12 Tf  T* (must be used directly inside loops starting from ) Tj .105882 .482353 .533333 rg (RF 5.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 106.9354 cm
+Q
+q
+1 0 0 1 19.6063 88.93543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Loop control keywords are considered deprecated since ) Tj .105882 .482353 .533333 rg (RF 5.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 78.93543 cm
+Q
+q
+1 0 0 1 19.6063 78.93543 cm
+Q
+ 
+endstream
+endobj
+134 0 obj
+<<
+/Length 2678
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (Changes to variable items access) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 150.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 42 Tm 18 TL /F1 12 Tf 0 0 0 rg (List and dictionary variable items can be accessed using generic) Tj T* /F3 12 Tf (${var}[item]) Tj /F1 12 Tf ( syntax instead of ) Tj /F3 12 Tf (@{list}[0]) Tj /F1 12 Tf ( and ) Tj /F3 12 Tf (&) Tj ({dict}[key]) Tj /F1 12 Tf  T* (starting from ) Tj .105882 .482353 .533333 rg (RF 3.1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 148.9354 cm
+Q
+q
+1 0 0 1 19.6063 130.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Nested access like ) Tj /F3 12 Tf (${var}[x][y]) Tj /F1 12 Tf ( is supported since ) Tj .105882 .482353 .533333 rg (RF 3.1) Tj 0 0 0 rg ( as well) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 128.9354 cm
+Q
+q
+1 0 0 1 19.6063 92.93543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm -0.144161 Tw 18 TL /F1 12 Tf 0 0 0 rg (Accessing list and dictionary items like ) Tj /F3 12 Tf (@{list}[0]) Tj /F1 12 Tf ( and ) Tj /F3 12 Tf (&) Tj ({dict}[key]) Tj /F1 12 Tf  T* 0 Tw (was deprecated in ) Tj .105882 .482353 .533333 rg (RF 3.2) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 90.93543 cm
+Q
+q
+1 0 0 1 19.6063 54.93543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F3 12 Tf 0 0 0 rg (@{var}[0]) Tj /F1 12 Tf ( and ) Tj /F3 12 Tf (&) Tj ({var}[key]) Tj /F1 12 Tf ( mean accessing the specified item and) Tj T* /F4 12 Tf (unpacking) Tj /F1 12 Tf ( it as list or dictionary since ) Tj .105882 .482353 .533333 rg (RF 4.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 52.93543 cm
+Q
+q
+1 0 0 1 19.6063 34.93543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Provided ) Tj /F3 12 Tf (rf32to40.py) Tj /F1 12 Tf ( script can update item access syntax) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 24.93543 cm
+Q
+q
+1 0 0 1 19.6063 24.93543 cm
+Q
+ 
+endstream
+endobj
+135 0 obj
+<<
+/Length 2324
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (Status changes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 186.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F3 12 Tf 0 0 0 rg (SKIP) Tj /F1 12 Tf ( status was added in ) Tj .105882 .482353 .533333 rg (RF 4.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 184.9354 cm
+Q
+q
+1 0 0 1 19.6063 166.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Criticality concept was removed in ) Tj .105882 .482353 .533333 rg (RF 4.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 164.9354 cm
+Q
+q
+1 0 0 1 19.6063 146.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (New ) Tj /F3 12 Tf (--skiponfailure) Tj /F1 12 Tf ( works similarly as old ) Tj /F3 12 Tf (--noncritical) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 144.9354 cm
+Q
+q
+1 0 0 1 19.6063 108.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F3 12 Tf 0 0 0 rg (--critical) Tj /F1 12 Tf ( and ) Tj /F3 12 Tf (--noncritical) Tj /F1 12 Tf ( were deprecated in ) Tj .105882 .482353 .533333 rg (RF 4.0) Tj 0 0 0 rg ( and) Tj T* (removed in ) Tj .105882 .482353 .533333 rg (RF 5.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 106.9354 cm
+Q
+q
+1 0 0 1 19.6063 70.93543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F3 12 Tf 0 0 0 rg (NOT) Tj ( ) Tj (RUN) Tj /F1 12 Tf ( status is used with un-executed keywords and control) Tj T* (structures starting from ) Tj .105882 .482353 .533333 rg (RF 4.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 60.93543 cm
+Q
+q
+1 0 0 1 19.6063 60.93543 cm
+Q
+ 
+endstream
+endobj
+136 0 obj
+<<
+/Length 1742
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 185.7354 cm
+q
+BT 1 0 0 1 0 29.4 Tm 25.2 TL /F3 21 Tf 0 0 0 rg (pybot) Tj /F2 21 Tf .133333 .133333 .133333 rg ( replaced with ) Tj /F3 21 Tf 0 0 0 rg (robot) Tj /F2 21 Tf .133333 .133333 .133333 rg ( and) Tj T* /F3 21 Tf 0 0 0 rg (python) Tj ( ) Tj (-m) Tj ( ) Tj (robot) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 179.7354 cm
+Q
+q
+1 0 0 1 19.6063 179.7354 cm
+Q
+q
+1 0 0 1 19.6063 161.7354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F3 12 Tf 0 0 0 rg (robot) Tj /F1 12 Tf ( and ) Tj /F3 12 Tf (python) Tj ( ) Tj (-m) Tj ( ) Tj (robot) Tj /F1 12 Tf ( were added in ) Tj .105882 .482353 .533333 rg (RF 3.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 159.7354 cm
+Q
+q
+1 0 0 1 19.6063 141.7354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F3 12 Tf 0 0 0 rg (pybot) Tj /F1 12 Tf (, ) Tj /F3 12 Tf (jybot) Tj /F1 12 Tf ( and ) Tj /F3 12 Tf (ipybot) Tj /F1 12 Tf ( were removed in ) Tj .105882 .482353 .533333 rg (RF 3.1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 139.7354 cm
+Q
+q
+1 0 0 1 19.6063 121.7354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F3 12 Tf 0 0 0 rg (robot.bat) Tj /F1 12 Tf ( was changed to ) Tj /F3 12 Tf (robot.exe) Tj /F1 12 Tf ( on Windows in ) Tj .105882 .482353 .533333 rg (RF 3.1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 111.7354 cm
+Q
+q
+1 0 0 1 19.6063 111.7354 cm
+Q
+ 
+endstream
+endobj
+137 0 obj
+<<
+/Length 1830
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (Data format changes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 186.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Support for HTML and TSV formats was removed in ) Tj .105882 .482353 .533333 rg (RF 3.2) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 184.9354 cm
+Q
+q
+1 0 0 1 19.6063 166.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Only ) Tj /F3 12 Tf (*.robot) Tj /F1 12 Tf ( files are parsed by default starting from ) Tj .105882 .482353 .533333 rg (RF 3.2) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 164.9354 cm
+Q
+q
+1 0 0 1 19.6063 146.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F3 12 Tf 0 0 0 rg (--extension) Tj /F1 12 Tf ( option can be used if other files need to be parsed) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 144.9354 cm
+Q
+q
+1 0 0 1 19.6063 126.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (New ) Tj /F3 12 Tf (*.resource) Tj /F1 12 Tf ( extension for resource files was added in ) Tj .105882 .482353 .533333 rg (RF 3.1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 116.9354 cm
+Q
+q
+1 0 0 1 19.6063 116.9354 cm
+Q
+ 
+endstream
+endobj
+138 0 obj
+<<
+/Length 2719
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (Changes to section and setting names) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 168.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F1 12 Tf 0 0 0 rg (Aliases like ) Tj /F3 12 Tf (***) Tj ( ) Tj (Metadata) Tj ( ) Tj (***) Tj /F1 12 Tf (, ) Tj /F3 12 Tf (Document) Tj /F1 12 Tf ( and ) Tj /F3 12 Tf (Pre) Tj ( ) Tj (Condition) Tj /F1 12 Tf  T* (were removed in ) Tj .105882 .482353 .533333 rg (RF 3.1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 166.9354 cm
+Q
+q
+1 0 0 1 19.6063 130.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F1 12 Tf 0 0 0 rg (Names are space sensitive \(e.g. ) Tj /F3 12 Tf (***) Tj ( ) Tj (TestCases) Tj ( ) Tj (***) Tj /F1 12 Tf ( or ) Tj /F3 12 Tf (Set) Tj ( ) Tj (Up) Tj /F1 12 Tf ( won't) Tj T* (work\) starting from ) Tj .105882 .482353 .533333 rg (RF 3.2) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 128.9354 cm
+Q
+q
+1 0 0 1 19.6063 92.93543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F1 12 Tf 0 0 0 rg (Singular headers like ) Tj /F3 12 Tf (***) Tj ( ) Tj (Test) Tj ( ) Tj (Case) Tj ( ) Tj (***) Tj /F1 12 Tf ( are considered deprecated) Tj T* (starting from ) Tj .105882 .482353 .533333 rg (RF 6.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 90.93543 cm
+Q
+q
+1 0 0 1 19.6063 72.93543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F3 12 Tf 0 0 0 rg (Test) Tj ( ) Tj (Tags) Tj /F1 12 Tf ( and ) Tj /F3 12 Tf (Keyword) Tj ( ) Tj (Tags) Tj /F1 12 Tf ( were added in ) Tj .105882 .482353 .533333 rg (RF 6.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 70.93543 cm
+Q
+q
+1 0 0 1 19.6063 34.93543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F3 12 Tf 0 0 0 rg (Force) Tj ( ) Tj (Tags) Tj /F1 12 Tf ( and ) Tj /F3 12 Tf (Default) Tj ( ) Tj (Tags) Tj /F1 12 Tf ( are considered deprecated since) Tj T* .105882 .482353 .533333 rg (RF 6.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 24.93543 cm
+Q
+q
+1 0 0 1 19.6063 24.93543 cm
+Q
+ 
+endstream
+endobj
+139 0 obj
+<<
+/Length 1476
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (Evaluating expressions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 150.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 42 Tm 18 TL /F1 12 Tf 0 0 0 rg (Modules are imported automatically in expressions like) Tj T* /F3 12 Tf (platform.system\(\)) Tj ( ) Tj (==) Tj ( ) Tj ('Linux') Tj /F1 12 Tf ( with ) Tj /F3 12 Tf (Evaluate) Tj /F1 12 Tf (,) Tj T* /F3 12 Tf (Run) Tj ( ) Tj (Keyword) Tj ( ) Tj (If) Tj /F1 12 Tf (, ) Tj /F3 12 Tf (IF/ELSE) Tj /F1 12 Tf (, etc. starting from ) Tj .105882 .482353 .533333 rg (RF 3.2) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 148.9354 cm
+Q
+q
+1 0 0 1 19.6063 112.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F1 12 Tf 0 0 0 rg (Inline Python evaluation \(e.g. ) Tj /F3 12 Tf (${{[1,) Tj ( ) Tj (2,) Tj ( ) Tj (3,) Tj ( ) Tj (4]}}) Tj /F1 12 Tf ( and) Tj T* /F3 12 Tf (${{datetime.date\(2022,) Tj ( ) Tj (11,) Tj ( ) Tj (22\)}}) Tj /F1 12 Tf ( was added in ) Tj .105882 .482353 .533333 rg (RF 3.2) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 102.9354 cm
+Q
+q
+1 0 0 1 19.6063 102.9354 cm
+Q
+ 
+endstream
+endobj
+140 0 obj
+<<
+/Length 1730
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (Listener changes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 186.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Old listeners API v1 was removed in ) Tj .105882 .482353 .533333 rg (RF 3.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 184.9354 cm
+Q
+q
+1 0 0 1 19.6063 166.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Powerful listener API v3 was added in ) Tj .105882 .482353 .533333 rg (RF 3.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 164.9354 cm
+Q
+q
+1 0 0 1 19.6063 146.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Listener API v3 can add and remove tests since ) Tj .105882 .482353 .533333 rg (RF 3.2) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 144.9354 cm
+Q
+q
+1 0 0 1 19.6063 108.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 18 TL (Small changes to information passed to listener API v2 in different) Tj T* (releases) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 98.93543 cm
+Q
+q
+1 0 0 1 19.6063 98.93543 cm
+Q
+ 
+endstream
+endobj
+141 0 obj
+<<
+/Length 1334
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (Libdoc changes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 186.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (New and enhanced HTML styles were added in ) Tj .105882 .482353 .533333 rg (RF 4.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 184.9354 cm
+Q
+q
+1 0 0 1 19.6063 166.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Support for JSON spec files was added in ) Tj .105882 .482353 .533333 rg (RF 4.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 164.9354 cm
+Q
+q
+1 0 0 1 19.6063 146.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 12 Tf 18 TL (Some changes to XML spec files in different releases) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 136.9354 cm
+Q
+q
+1 0 0 1 19.6063 136.9354 cm
+Q
+ 
+endstream
+endobj
+142 0 obj
+<<
+/Length 2601
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (Automatic argument conversion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 170.5354 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 413.1307 31.2 re B*
+Q
+q
+.941176 .972549 1 rg
+n 0 9.6 14.4 9.6 re f*
+.941176 .972549 1 rg
+n 19.2 9.6 33.6 9.6 re f*
+.941176 .972549 1 rg
+n 52.8 9.6 4.8 9.6 re f*
+.941176 .972549 1 rg
+n 57.6 9.6 24 9.6 re f*
+.941176 .972549 1 rg
+n 81.6 9.6 4.8 9.6 re f*
+.941176 .972549 1 rg
+n 91.2 9.6 14.4 9.6 re f*
+.941176 .972549 1 rg
+n 105.6 9.6 4.8 9.6 re f*
+.941176 .972549 1 rg
+n 115.2 9.6 76.8 9.6 re f*
+.941176 .972549 1 rg
+n 192 9.6 4.8 9.6 re f*
+.941176 .972549 1 rg
+n 201.6 9.6 19.2 9.6 re f*
+.941176 .972549 1 rg
+n 225.6 9.6 4.8 9.6 re f*
+.941176 .972549 1 rg
+n 235.2 9.6 19.2 9.6 re f*
+.941176 .972549 1 rg
+n 254.4 9.6 9.6 9.6 re f*
+.941176 .972549 1 rg
+n 19.2 0 14.4 9.6 re f*
+BT 1 0 0 1 0 11.2 Tm 9.6 TL /F5 8 Tf 0 .501961 0 rg (def) Tj /F3 8 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (keyword) Tj 0 0 0 rg (\() Tj (count) Tj (:) Tj ( ) Tj 0 .501961 0 rg (int) Tj 0 0 0 rg (,) Tj ( ) Tj (case_insensitive) Tj (:) Tj ( ) Tj 0 .501961 0 rg (bool) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj /F5 8 Tf 0 .501961 0 rg (True) Tj /F3 8 Tf 0 0 0 rg (\):) Tj  T* (    ) Tj .4 .4 .4 rg (...) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 110.9354 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 413.1307 50.4 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F3 8 Tf 9.6 TL (*** Test Cases ***) Tj T* (Example) Tj T* (    Keyword    42) Tj T* (    Keyword    -1    case_insensitive=False) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 102.9354 cm
+Q
+q
+1 0 0 1 19.6063 102.9354 cm
+Q
+q
+1 0 0 1 19.6063 84.93543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Added in ) Tj .105882 .482353 .533333 rg (RF 3.1) Tj 0 0 0 rg ( and enhanced in subsequent releases) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 82.93543 cm
+Q
+q
+1 0 0 1 19.6063 64.93543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Support for custom argument converters added in ) Tj .105882 .482353 .533333 rg (RF 5.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 54.93543 cm
+Q
+q
+1 0 0 1 19.6063 54.93543 cm
+Q
+ 
+endstream
+endobj
+143 0 obj
+<<
+/Length 1447
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (Other library API enhancements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 186.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F3 12 Tf 0 0 0 rg (@library) Tj /F1 12 Tf ( and ) Tj /F3 12 Tf (@not_keyword) Tj /F1 12 Tf ( decorators added in ) Tj .105882 .482353 .533333 rg (RF 3.2) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 184.9354 cm
+Q
+q
+1 0 0 1 19.6063 166.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Named-only argument support added in ) Tj .105882 .482353 .533333 rg (RF 3.1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 164.9354 cm
+Q
+q
+1 0 0 1 19.6063 146.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Positional-only argument support \(Python 3.8+ only\) added in ) Tj .105882 .482353 .533333 rg (RF 4.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 136.9354 cm
+Q
+q
+1 0 0 1 19.6063 136.9354 cm
+Q
+ 
+endstream
+endobj
+144 0 obj
+<<
+/Length 1511
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (Controlling continue-on-failure mode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 186.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 12 Tf 18 TL (Controlled using tags on test and keyword level) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 184.9354 cm
+Q
+q
+1 0 0 1 19.6063 148.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F3 12 Tf 0 0 0 rg (robot:continue-on-failure) Tj /F1 12 Tf ( and) Tj T* /F3 12 Tf (robot:recursive-continue-on-failure) Tj /F1 12 Tf ( added in ) Tj .105882 .482353 .533333 rg (RF 4.1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 146.9354 cm
+Q
+q
+1 0 0 1 19.6063 110.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F3 12 Tf 0 0 0 rg (robot:stop-on-failure) Tj /F1 12 Tf ( and) Tj T* /F3 12 Tf (robot:recursive-stop-on-failure) Tj /F1 12 Tf ( added in ) Tj .105882 .482353 .533333 rg (RF 6.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 100.9354 cm
+Q
+q
+1 0 0 1 19.6063 100.9354 cm
+Q
+ 
+endstream
+endobj
+145 0 obj
+<<
+/Length 1189
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (Log file enhancements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 186.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Relative order of messages and keywords preserved since ) Tj .105882 .482353 .533333 rg (RF 4.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 184.9354 cm
+Q
+q
+1 0 0 1 19.6063 148.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F1 12 Tf 0 0 0 rg (Un-executed keywords \(after failures, in un-executed ) Tj /F3 12 Tf (IF/ELSE) Tj /F1 12 Tf ( branches,) Tj T* (etc.\) shown in log using ) Tj /F3 12 Tf (NOT) Tj ( ) Tj (RUN) Tj /F1 12 Tf ( status \(gray\) since ) Tj .105882 .482353 .533333 rg (RF 4.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 138.9354 cm
+Q
+q
+1 0 0 1 19.6063 138.9354 cm
+Q
+ 
+endstream
+endobj
+146 0 obj
+<<
+/Length 3073
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (output.xml changes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 186.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (New ) Tj /F3 12 Tf (SKIP) Tj /F1 12 Tf ( and ) Tj /F3 12 Tf (NOT) Tj ( ) Tj (RUN) Tj /F1 12 Tf ( statuses added) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 184.9354 cm
+Q
+q
+1 0 0 1 19.6063 166.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 12 Tf 18 TL (Criticality information removed) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 164.9354 cm
+Q
+q
+1 0 0 1 19.6063 128.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F1 12 Tf 0 0 0 rg (Container elements ) Tj /F3 12 Tf (<) Tj (metadata) Tj (>) Tj /F1 12 Tf (, ) Tj /F3 12 Tf (<) Tj (tags) Tj (>) Tj /F1 12 Tf (, ) Tj /F3 12 Tf (<) Tj (arguments) Tj (>) Tj /F1 12 Tf ( and) Tj T* /F3 12 Tf (<) Tj (assign) Tj (>) Tj /F1 12 Tf ( around items have been removed) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 126.9354 cm
+Q
+q
+1 0 0 1 19.6063 90.93543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F3 12 Tf 0 0 0 rg (FOR) Tj /F1 12 Tf ( loops are represented as ) Tj /F3 12 Tf (<) Tj (for) Tj (>) Tj /F1 12 Tf ( elements instead of) Tj T* /F3 12 Tf (<) Tj (kw) Tj ( ) Tj (type='for') Tj (>) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 88.93543 cm
+Q
+q
+1 0 0 1 19.6063 70.93543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 12 Tf 18 TL (New elements for other control structures) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 68.93543 cm
+Q
+q
+1 0 0 1 19.6063 50.93543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Boolean values in attributes changed from ) Tj /F3 12 Tf (yes/no) Tj /F1 12 Tf ( to ) Tj /F3 12 Tf (true/false) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 48.93543 cm
+Q
+q
+1 0 0 1 19.6063 30.93543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (All these changes were done in ) Tj .105882 .482353 .533333 rg (RF 4.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 20.93543 cm
+Q
+q
+1 0 0 1 19.6063 20.93543 cm
+Q
+ 
+endstream
+endobj
+147 0 obj
+<<
+/Length 2000
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (xUnit format changes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 186.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F3 12 Tf 0 0 0 rg (skip) Tj /F1 12 Tf ( attribute changed to ) Tj /F3 12 Tf (skipped) Tj /F1 12 Tf ( in ) Tj .105882 .482353 .533333 rg (RF 3.1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 184.9354 cm
+Q
+q
+1 0 0 1 19.6063 166.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Each suite gets its own ) Tj /F3 12 Tf (<) Tj (testsuite) Tj (>) Tj /F1 12 Tf ( element starting from ) Tj .105882 .482353 .533333 rg (RF 5.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 164.9354 cm
+Q
+q
+1 0 0 1 19.6063 146.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F3 12 Tf 0 0 0 rg (<) Tj (testsuite) Tj (>) Tj /F1 12 Tf ( elements have ) Tj /F3 12 Tf (timestamp) Tj /F1 12 Tf ( attribute since ) Tj .105882 .482353 .533333 rg (RF 5.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 144.9354 cm
+Q
+q
+1 0 0 1 19.6063 108.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F1 12 Tf 0 0 0 rg (Suite documentation and metadata are added under each ) Tj /F3 12 Tf (<) Tj (testsuite) Tj (>) Tj /F1 12 Tf  T* (as properties since ) Tj .105882 .482353 .533333 rg (RF 5.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 98.93543 cm
+Q
+q
+1 0 0 1 19.6063 98.93543 cm
+Q
+ 
+endstream
+endobj
+148 0 obj
+<<
+/Length 2180
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (New external RoboTidy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 186.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.105882 .482353 .533333 rg
+BT 1 0 0 1 0 6 Tm /F1 12 Tf 18 TL (https://robotidy.readthedocs.io) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 184.9354 cm
+Q
+q
+1 0 0 1 19.6063 166.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 12 Tf 18 TL (Much more powerful and easier to customize than old built-in Tidy) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 164.9354 cm
+Q
+q
+1 0 0 1 19.6063 128.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F1 12 Tf 0 0 0 rg (Can convert ) Tj /F3 12 Tf (Run) Tj ( ) Tj (Keyword) Tj ( ) Tj (If) Tj /F1 12 Tf ( to ) Tj /F3 12 Tf (IF/ELSE) Tj /F1 12 Tf (, update deprecated settings,) Tj T* (and so on) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 126.9354 cm
+Q
+q
+1 0 0 1 19.6063 108.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Cannot handle old ) Tj /F3 12 Tf (FOR) Tj /F1 12 Tf ( loops) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 106.9354 cm
+Q
+q
+1 0 0 1 19.6063 88.93543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Built-in Tidy deprecated in ) Tj .105882 .482353 .533333 rg (RF 4.1) Tj 0 0 0 rg ( and removed in ) Tj .105882 .482353 .533333 rg (RF 5.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 78.93543 cm
+Q
+q
+1 0 0 1 19.6063 78.93543 cm
+Q
+ 
+endstream
+endobj
+149 0 obj
+<<
+/Length 2468
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 19.6063 210.9354 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf .133333 .133333 .133333 rg (Other changes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 204.9354 cm
+Q
+q
+1 0 0 1 19.6063 186.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Support for process automation \(RPA\) in ) Tj .105882 .482353 .533333 rg (RF 3.1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 184.9354 cm
+Q
+q
+1 0 0 1 19.6063 166.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (New parser in ) Tj .105882 .482353 .533333 rg (RF 3.2) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 164.9354 cm
+Q
+q
+1 0 0 1 19.6063 146.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Performance enhancements to remote API in ) Tj .105882 .482353 .533333 rg (RF 4.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 144.9354 cm
+Q
+q
+1 0 0 1 19.6063 126.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 6 Tm 18 TL /F1 12 Tf 0 0 0 rg (Localization in ) Tj .105882 .482353 .533333 rg (RF 6.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 124.9354 cm
+Q
+q
+1 0 0 1 19.6063 88.93543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F1 12 Tf 0 0 0 rg (Better conflict resolution with keywords accepting embedded arguments) Tj T* (in ) Tj .105882 .482353 .533333 rg (RF 6.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 86.93543 cm
+Q
+q
+1 0 0 1 19.6063 50.93543 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F3 12 Tf 18 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 24 Tm 18 TL /F1 12 Tf 0 0 0 rg (Enhancements to keyword namespaces \(e.g. ) Tj /F3 12 Tf (robot:private) Tj /F1 12 Tf (\) in) Tj T* .105882 .482353 .533333 rg (RF 6.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 19.6063 40.93543 cm
+Q
+ 
+endstream
+endobj
+150 0 obj
+<<
+/Nums [ 0 151 0 R 1 152 0 R 2 153 0 R 3 154 0 R 4 155 0 R 
+  5 156 0 R 6 157 0 R 7 158 0 R 8 159 0 R 9 160 0 R 
+  10 161 0 R 11 162 0 R 12 163 0 R 13 164 0 R 14 165 0 R 
+  15 166 0 R 16 167 0 R 17 168 0 R 18 169 0 R 19 170 0 R 
+  20 171 0 R 21 172 0 R 22 173 0 R 23 174 0 R 24 175 0 R ]
+>>
+endobj
+151 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+152 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+153 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+154 0 obj
+<<
+/S /D /St 4
+>>
+endobj
+155 0 obj
+<<
+/S /D /St 5
+>>
+endobj
+156 0 obj
+<<
+/S /D /St 6
+>>
+endobj
+157 0 obj
+<<
+/S /D /St 7
+>>
+endobj
+158 0 obj
+<<
+/S /D /St 8
+>>
+endobj
+159 0 obj
+<<
+/S /D /St 9
+>>
+endobj
+160 0 obj
+<<
+/S /D /St 10
+>>
+endobj
+161 0 obj
+<<
+/S /D /St 11
+>>
+endobj
+162 0 obj
+<<
+/S /D /St 12
+>>
+endobj
+163 0 obj
+<<
+/S /D /St 13
+>>
+endobj
+164 0 obj
+<<
+/S /D /St 14
+>>
+endobj
+165 0 obj
+<<
+/S /D /St 15
+>>
+endobj
+166 0 obj
+<<
+/S /D /St 16
+>>
+endobj
+167 0 obj
+<<
+/S /D /St 17
+>>
+endobj
+168 0 obj
+<<
+/S /D /St 18
+>>
+endobj
+169 0 obj
+<<
+/S /D /St 19
+>>
+endobj
+170 0 obj
+<<
+/S /D /St 20
+>>
+endobj
+171 0 obj
+<<
+/S /D /St 21
+>>
+endobj
+172 0 obj
+<<
+/S /D /St 22
+>>
+endobj
+173 0 obj
+<<
+/S /D /St 23
+>>
+endobj
+174 0 obj
+<<
+/S /D /St 24
+>>
+endobj
+175 0 obj
+<<
+/S /D /St 25
+>>
+endobj
+xref
+0 176
+0000000000 65535 f 
+0000000073 00000 n 
+0000000146 00000 n 
+0000000253 00000 n 
+0000000365 00000 n 
+0000000470 00000 n 
+0000000677 00000 n 
+0000000884 00000 n 
+0000001124 00000 n 
+0000001364 00000 n 
+0000001604 00000 n 
+0000001842 00000 n 
+0000002083 00000 n 
+0000002324 00000 n 
+0000002565 00000 n 
+0000002806 00000 n 
+0000003046 00000 n 
+0000003273 00000 n 
+0000003513 00000 n 
+0000003740 00000 n 
+0000003980 00000 n 
+0000004207 00000 n 
+0000004447 00000 n 
+0000004674 00000 n 
+0000004915 00000 n 
+0000005156 00000 n 
+0000005397 00000 n 
+0000005638 00000 n 
+0000005879 00000 n 
+0000006134 00000 n 
+0000006375 00000 n 
+0000006616 00000 n 
+0000006857 00000 n 
+0000006973 00000 n 
+0000007214 00000 n 
+0000007462 00000 n 
+0000007703 00000 n 
+0000007944 00000 n 
+0000008185 00000 n 
+0000008426 00000 n 
+0000008667 00000 n 
+0000008922 00000 n 
+0000009163 00000 n 
+0000009404 00000 n 
+0000009645 00000 n 
+0000009886 00000 n 
+0000010127 00000 n 
+0000010368 00000 n 
+0000010609 00000 n 
+0000010850 00000 n 
+0000011091 00000 n 
+0000011332 00000 n 
+0000011573 00000 n 
+0000011814 00000 n 
+0000012053 00000 n 
+0000012308 00000 n 
+0000012549 00000 n 
+0000012790 00000 n 
+0000013024 00000 n 
+0000013265 00000 n 
+0000013506 00000 n 
+0000013747 00000 n 
+0000013988 00000 n 
+0000014229 00000 n 
+0000014470 00000 n 
+0000014704 00000 n 
+0000014815 00000 n 
+0000015055 00000 n 
+0000015296 00000 n 
+0000015530 00000 n 
+0000015771 00000 n 
+0000016012 00000 n 
+0000016253 00000 n 
+0000016494 00000 n 
+0000016735 00000 n 
+0000016976 00000 n 
+0000017210 00000 n 
+0000017451 00000 n 
+0000017692 00000 n 
+0000017926 00000 n 
+0000018167 00000 n 
+0000018394 00000 n 
+0000018635 00000 n 
+0000018876 00000 n 
+0000019117 00000 n 
+0000019358 00000 n 
+0000019606 00000 n 
+0000019789 00000 n 
+0000020030 00000 n 
+0000020271 00000 n 
+0000020512 00000 n 
+0000020753 00000 n 
+0000020994 00000 n 
+0000021235 00000 n 
+0000021476 00000 n 
+0000021715 00000 n 
+0000021954 00000 n 
+0000022216 00000 n 
+0000022324 00000 n 
+0000022613 00000 n 
+0000022690 00000 n 
+0000022818 00000 n 
+0000022957 00000 n 
+0000023090 00000 n 
+0000023214 00000 n 
+0000023356 00000 n 
+0000023483 00000 n 
+0000023605 00000 n 
+0000023746 00000 n 
+0000023895 00000 n 
+0000024026 00000 n 
+0000024198 00000 n 
+0000024334 00000 n 
+0000024487 00000 n 
+0000024626 00000 n 
+0000024759 00000 n 
+0000024890 00000 n 
+0000025036 00000 n 
+0000025183 00000 n 
+0000025336 00000 n 
+0000025474 00000 n 
+0000025609 00000 n 
+0000025746 00000 n 
+0000025884 00000 n 
+0000026000 00000 n 
+0000026235 00000 n 
+0000027784 00000 n 
+0000030579 00000 n 
+0000032653 00000 n 
+0000034589 00000 n 
+0000035549 00000 n 
+0000036457 00000 n 
+0000037384 00000 n 
+0000038384 00000 n 
+0000040800 00000 n 
+0000043531 00000 n 
+0000045908 00000 n 
+0000047703 00000 n 
+0000049586 00000 n 
+0000052358 00000 n 
+0000053887 00000 n 
+0000055670 00000 n 
+0000057057 00000 n 
+0000059711 00000 n 
+0000061211 00000 n 
+0000062775 00000 n 
+0000064017 00000 n 
+0000067143 00000 n 
+0000069196 00000 n 
+0000071429 00000 n 
+0000073950 00000 n 
+0000074260 00000 n 
+0000074295 00000 n 
+0000074330 00000 n 
+0000074365 00000 n 
+0000074400 00000 n 
+0000074435 00000 n 
+0000074470 00000 n 
+0000074505 00000 n 
+0000074540 00000 n 
+0000074575 00000 n 
+0000074611 00000 n 
+0000074647 00000 n 
+0000074683 00000 n 
+0000074719 00000 n 
+0000074755 00000 n 
+0000074791 00000 n 
+0000074827 00000 n 
+0000074863 00000 n 
+0000074899 00000 n 
+0000074935 00000 n 
+0000074971 00000 n 
+0000075007 00000 n 
+0000075043 00000 n 
+0000075079 00000 n 
+0000075115 00000 n 
+trailer
+<<
+/ID 
+[<0455fd614520a7ea4be59a8329ebf7c3><0455fd614520a7ea4be59a8329ebf7c3>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 98 0 R
+/Root 97 0 R
+/Size 176
+>>
+startxref
+75151
+%%EOF
